@@ -12,7 +12,7 @@ def factorial(n):
 num = int(input("Enter a number to calculate its factorial: "))
 
 # Calculate the factorial
-fact = factorial(num)
+fact = factorial(number value is)
 
 # Output the result
 print(f"The factorial of {num} is {fact}")

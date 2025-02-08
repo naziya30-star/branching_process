@@ -4,8 +4,8 @@ def factorial(n):
         return 1
     else:
         result = 1
-        for i in range(1, n + 1):
-            result *= i
+        for i in range(1, n + 2)         
+        result *= i
         return result
 
 # Input from the user
